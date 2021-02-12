@@ -1,0 +1,13 @@
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(2,'Htc One M7 Negro','HTC',349000,5,'Usado',5);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(3,'Huawei Psmart 128gb','Huawey',624900,500,'Usado',5);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(4,'Huawei Y6p 64gb','Huawey',539900,1000,'Nuevo',5);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(5,'Motorola one hyper 128gb','motorola',797900,50,'Nuevo',5);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(6,'Samsung Galaxy S10 Plus  128 gb','Samsung',2649900,10,'Nuevo',5);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(7,'Huawei P30 Lite 64gb','Huawey',1099900,999,'Nuevo',10);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(8,'Iphone 12 128gb','Apple',4399000,20,'Nuevo',10);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(9,'moto G8 plus 64gb','motorola',649900,100,'Nuevo',10);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(10,'Motorola one fusion','motorola',679900,99,'Nuevo',30);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(11,'Samsung Galaxy M31 128 gb','Samsung',1109900,500,'Nuevo',30);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(12,'Iphone 8 Plus 64gb','Apple',2599000,50,'Nuevo',30);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(13,'moto E6s 32 gb','motorola',389900,250,'Nuevo',15);
+insert into PRODUCTS (IDPRODUCT, NAME, TRADEMARK, PRICE, STOCK, STATUS, DISCOUNT)values(14,'Huawei Psmart 128gb','Huawey',624900,500,'Nuevo',15);
